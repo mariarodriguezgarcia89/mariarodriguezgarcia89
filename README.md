@@ -36,7 +36,7 @@ Nace de mi experiencia en gerontología y del convencimiento de que la tecnolog�
 ¿Tienes algún proyecto interesante o quieres hablar sobre desarrollo y accesibilidad? Encantada de conectar.
 
 <!-- Reemplaza con tu email o LinkedIn real -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariarg1989)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariarodriguezdev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rodriguezgarciamaria89@gmail.com)
 
 ---
