@@ -31,6 +31,13 @@ Nace de mi experiencia en gerontología y del convencimiento de que la tecnolog�
 
 ---
 
+## 🔭 Ahora mismo
+
+- 📚 Cursando la especialización en **Inteligencia Artificial y Big Data** (FP a distancia, Xunta de Galicia).
+- ✈️ Desarrollando **[viAppxiños](https://github.com/mariarodriguezgarcia89/viappxinhos)**, una app web para organizar viajes en grupo con React, Node.js y PostgreSQL. Mi objetivo es llevarla de principio a fin hasta producción.
+
+---
+
 ## 📫 Contacto
 
 ¿Tienes algún proyecto interesante o quieres hablar sobre desarrollo y accesibilidad? Encantada de conectar.
