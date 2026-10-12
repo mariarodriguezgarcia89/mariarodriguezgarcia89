@@ -1,40 +1,54 @@
 # Hola, soy María 👋
 
-Soy técnica en **Desarrollo de Aplicaciones Multiplataforma** con formación previa en Psicología y un Máster en Gerontología Clínica. Esa combinación de fondo humano y formación técnica es lo que da sentido a lo que construyo: aplicaciones pensadas para las personas, especialmente para quienes más lo necesitan.
+Soy **desarrolladora full-stack**, titulada en Desarrollo de Aplicaciones Multiplataforma, con una formación previa poco habitual en este mundo: soy licenciada en Psicología y tengo un Máster en Gerontología Clínica. Esa mezcla de fondo humano y técnico es lo que da sentido a lo que construyo: aplicaciones pensadas para las personas que las van a usar.
 
-Me apasiona el desarrollo frontend y el diseño de interfaces accesibles. Hice las prácticas en **Serenia Solutions**, donde participé en el desarrollo de un asistente conversacional para personas mayores con Vue y Python.
+Desarrollo aplicaciones completas, de la interfaz a la API y la base de datos: Vue y React en el frontend, Node.js y Python en el backend, y bases de datos relacionales como MariaDB y MySQL. Cuido especialmente la accesibilidad y la experiencia de uso. Hice las prácticas en **Serenia Solutions**, donde participé en el desarrollo de un asistente conversacional para personas mayores con Vue y Python.
 
 ---
 
 ## 🛠️ Tecnologías con las que trabajo
 
-**Frontend**
-Vue.js · React · HTML · CSS · JavaScript
-
-**Backend**
-Node.js · Python · REST APIs
-
-**Herramientas**
-Git · VS Code · Figma
+- **Frontend:** Vue 3 (Options y Composition API) · React · Pinia · Vue Router · Vite · Axios · HTML · CSS · JavaScript
+- **Backend:** Node.js · Express · Python · Django · Java · Spring Boot · APIs REST · JWT
+- **Bases de datos:** MariaDB · MySQL · PostgreSQL · MongoDB · Sequelize
+- **Móvil y escritorio:** Kotlin · Android Studio · Capacitor · JavaFX
+- **Videojuegos:** Unity · C#
+- **Otras librerías:** Puppeteer · Nodemailer · node-cron · ApexCharts · pytest
+- **Herramientas:** Git · GitHub · GitLab · Postman · Swagger/OpenAPI · DBeaver · VS Code · Figma · draw.io · Claude Code
 
 ---
 
-## 🌱 Proyecto destacado
+## 🚀 Proyectos
 
-### StimulApp
-Aplicación web de estimulación cognitiva para personas mayores, desarrollada como Trabajo de Fin de Ciclo.  
-Stack: **Vue 3** (frontend) · **Node.js + Express** (backend)
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🧠 [StimulApp](https://github.com/mariarodriguezgarcia89/stimulApp) | App web de estimulación cognitiva para personas mayores, con estadísticas, alertas automáticas al cuidador e informes mensuales en PDF. TFC de 2º DAM. | Vue 3 · Node.js · Express · MariaDB |
+| ✈️ [viAppxiños](https://github.com/mariarodriguezgarcia89/viappxinhos) | App web para organizar viajes en grupo: itinerario, alojamiento y lista de equipaje compartidos. *En desarrollo.* | React · Node.js · PostgreSQL |
+| 🦊 [Spirit Fox](https://github.com/mariarodriguezgarcia89/spirit-fox-game) | Juego de plataformas 2D con enemigos con IA, puntuación y temporizador. Proyecto integrador de 2º DAM. | Unity · C# |
+| 🏙️ [CityGuard](https://github.com/mariarodriguezgarcia89/CityGuard) | App Android para registrar y gestionar incidencias urbanas. | Kotlin · Android Studio |
+| 🐄 [GRANJA](https://github.com/mariarodriguezgarcia89/GRANJA) | Minijuego de gestión de recursos hecho en equipo para practicar el patrón MVC. | Java · JavaFX · MySQL |
 
-Nace de mi experiencia en gerontología y del convencimiento de que la tecnología puede mejorar de verdad la calidad de vida en la vejez, si se diseña pensando en quién la va a usar.
+> StimulApp nace de mi experiencia en gerontología y del convencimiento de que la tecnología puede mejorar de verdad la calidad de vida en la vejez, si se diseña pensando en quién la va a usar.
 
-> *TFC presentado en junio de 2026 · [Ver repositorio](https://github.com/mariarodriguezgarcia89/stimulApp)*
+---
+
+## 🎓 Formación
+
+- **Curso de especialización en Inteligencia Artificial y Big Data** · FP a distancia, Xunta de Galicia · *en curso*
+- **Técnica Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** · Nortempo Formación · 2026
+- **Máster en Gerontología Clínica** · Universidade da Coruña · 2017
+- **Licenciatura en Psicología** · Universidade de Santiago de Compostela · 2012
+
+**Certificaciones:** Python TOTAL – Programador Avanzado (Udemy, 2026) · Google AI Essentials (Coursera, 2025) · Ciberseguridad en entornos de las tecnologías de la operación (120 h, 2025)
+
+**Idiomas:** español y gallego (nativos) · portugués e inglés (B1-B2)
 
 ---
 
 ## 🔭 Ahora mismo
 
-- 📚 Cursando la especialización en **Inteligencia Artificial y Big Data** (FP a distancia, Xunta de Galicia).
-- ✈️ Desarrollando **[viAppxiños](https://github.com/mariarodriguezgarcia89/viappxinhos)**, una app web para organizar viajes en grupo con React, Node.js y PostgreSQL. Mi objetivo es llevarla de principio a fin hasta producción.
+- 📚 Cursando la especialización en **Inteligencia Artificial y Big Data**.
+- ⚛️ Aprendiendo React y aplicándolo en **[viAppxiños](https://github.com/mariarodriguezgarcia89/viappxinhos)**, que quiero llevar de principio a fin hasta producción.
 
 ---
 
